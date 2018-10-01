@@ -1,0 +1,85 @@
+.Khung{
+	width: 400px;
+	height: 347px;
+	background: url(https://png.pngtree.com/thumb_back/fw800/20161228/pngtree-Dandelion-Plant-Design-Herb-background-photo-669364.jpg);
+	margin: 0 auto;
+}
+h3{
+    width: 98%;
+    height: 50px;
+    float: left;
+    color: #fff;
+    background: #48482b94;
+    margin: 0;
+    text-align: center;
+    line-height: 60px;
+    font-size: 13px;
+    font-family: arial;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+.Khung label{
+    padding: 5px 5px;
+    width: 50%;
+    font-size: 15px;
+    color: #CCC;
+    padding-left: 29px;
+    font-family: arial;
+
+}
+.Khung input{
+    display: block;
+    width: 40%;
+    padding-left: 4px;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    margin-left: 29px;
+    color: #ccc;
+    border-radius: 3px;
+    border: 0;
+}
+.Khung input.Username{
+    float: right;
+    margin-right: 26px;
+    margin-top: -154px;
+}
+.Khung input.ConflirmE-mail{
+    float: right;
+    margin-right: 26px;
+    margin-top: -102px;
+}
+.Khung input.ConflirmPassword{
+    float: right;
+    margin-right: 25px;
+    margin-top: -56px;
+}
+.Khung input.checkbox{
+	margin-top: -27px;
+    width: 16px;
+    height: 16px;
+
+
+
+}
+a.a1{
+	width: 129px;
+    float: right;
+    height: 30px;
+    text-align: center;
+    background: burlywood;
+    margin-right: 49px;
+    margin-top: 14px;
+    line-height: 30px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 15px;
+    color: #fff;
+}
+.khung1{
+	margin: 0;
+	float: left;
+	background: #48482b94;
+	width: 98%;
+    margin-left: 4px;
+	height: 289px; 
+}

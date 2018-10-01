@@ -1,0 +1,173 @@
+.Khung{
+	margin: 0 auto;
+	width: 1000px;
+	height: 500px;
+	background: url(https://png.pngtree.com/thumb_back/fw800/20161223/pngtree-fantasy-blue-gradient-background-pattern-drawing-photo-321304.jpg);
+	opacity: 1;
+	float: left;
+	margin-bottom: -200px;
+
+}
+.Khung1{
+	float: left;
+    margin-top: -256px;
+    width: 385px;
+    height: 266px;
+    background: #101010;
+    margin-left: 82px;
+    opacity: 0.6;
+}
+.Khung1 h3{
+font-family: arial;
+    margin: 0px;
+    width: 100%;
+    height: 65px;
+    text-align: center;
+    font-size: 31px;
+    line-height: 96px;
+    color: #fff;
+    font-weight: 100;
+}
+.Khung1 input{
+	display: block;
+	width: 80%;
+	margin-left: 30px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	color: #ccc;
+	padding-left: 10px;
+	border: 0;
+}
+.Khung1 input.Fullname{
+ 	background-position: right 2px top 2px ;
+	background-image: url(https://image.flaticon.com/icons/svg/64/64096.svg);
+    background-size: 16px 26px;
+	background-repeat: no-repeat;
+}
+ .Khung1  input:focus{
+	color: blue;
+	background: #ccc;
+} 
+.Khung1  input.password{
+	background-position: right 2px top 2px ;
+	background-image: url(https://image.flaticon.com/icons/svg/61/61457.svg);
+    background-size: 16px 26px;
+	background-repeat: no-repeat;
+}
+.Khung1  input:focus{
+	color: blue;
+	background: #ccc;
+} 
+ .Khung1 input.Sumbmit{
+ 	float: left;
+	margin-top: 10px;
+	width: 100px;
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+	border: 0px;
+	color: #ffff;
+	background: #3ae412;
+	text-align: center;
+	border-radius: 5px;
+}
+ .Khung1 input.Login{
+ 	float: right;
+ 	margin-right: 55px;
+	margin-top: 10px;
+	width: 100px;
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+	border: 0px;
+	color: #ffff;
+	background: red;
+	text-align: center;
+	border-radius: 5px;
+}
+.Khung2{
+	float: right;
+    margin-top: -256px;
+    width: 370px;
+    height: 356px;
+    background: #101010;
+    margin-right: 450px;
+    opacity: 0.6;
+}
+.Khung2 h3{
+font-family: arial;
+    margin: 0px;
+    width: 100%;
+    height: 65px;
+    text-align: center;
+    font-size: 31px;
+    line-height: 96px;
+    color: #fff;
+    font-weight: 100;
+}
+.Khung2 input{
+    display: block;
+    width: 80%;
+    margin-left: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: #ccc;
+    border: 0;
+    padding-left: 10px;
+}
+.Khung2 input.Fullname{
+ 	background-position: right 2px top 2px ;
+	background-image: url(https://image.flaticon.com/icons/svg/64/64096.svg);
+    background-size: 16px 18px;
+	background-repeat: no-repeat;
+}
+ .Khung2  input:focus{
+	color: blue;
+	background: #ccc;
+} 
+.Khung2  input.password{
+	background-position: right 2px top 2px ;
+	background-image: url(https://image.flaticon.com/icons/svg/12/12194.svg);
+    background-size: 16px 18px;
+	background-repeat: no-repeat;
+}
+.Khung2  input:focus{
+	color: blue;
+	background: #ccc;
+} 
+.Khung2 input.EMAILADDRESS{
+ 	background-position: right 2px top 2px ;
+	background-image: url(https://image.flaticon.com/icons/svg/61/61457.svg);
+    background-size: 16px 26px;
+	background-repeat: no-repeat;
+}
+
+ .Khung1  input:focus{
+	color: blue;
+	background: #ccc;
+} 
+ .Khung2 input.Sumbmit{
+ 	float: left;
+	margin-top: 10px;
+	width: 83%;
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+	border: 0px;
+	color: #ffff;
+	background: #3ae412	;
+	text-align: center;
+	border-radius: 5px;
+}
+.Khung2 input.phone{
+ 	background-position: right 2px top 2px ;
+	background-image: url(https://image.flaticon.com/icons/svg/64/64096.svg);
+    background-size: 16px 18px;
+	background-repeat: no-repeat;
+}
+.Khung2 input.email{
+ 	background-position: right 2px top 2px ;
+	background-image: url(https://image.flaticon.com/icons/svg/64/64096.svg);
+    background-size: 16px 18px;
+	background-repeat: no-repeat;
+}

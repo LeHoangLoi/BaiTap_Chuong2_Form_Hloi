@@ -1,0 +1,57 @@
+.Khung{
+	margin: 0 auto;
+	width: 500px;
+	height: 400px;
+	background: url(https://png.pngtree.com/thumb_back/fw800/20161124/pngtree-Wallpaper-Digital-Tunnel-Space-background-photo-316818.jpg);
+}
+.Khung legend{
+	margin:0 auto;
+	width: 100px;
+	height: 100px;
+}
+.Khung input{
+    display: block;
+    width: 83%;
+    margin-left: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 0;
+    padding-left: 37px;
+}
+div .tron{	
+    width: 100px;
+    height: 100px;
+    background: rosybrown;
+    margin-top: 2px;
+    border-radius: 100px;
+    opacity: 0.4;
+}
+.Khung input.Name{
+	background-position: left 2px top 2px ;
+	background: url(https://image.flaticon.com/icons/svg/64/64096.svg);
+    background-size: 19px 28px;
+	background-repeat: no-repeat;
+	background-color: cornsilk;
+}
+.Khung input:focus{
+	color: blue;
+	background: #ccc;
+} 
+.Khung input.password{
+	background-position: left 2px top 2px ;
+	background: url(https://image.flaticon.com/icons/svg/61/61457.svg);
+    background-size: 19px 28px;
+	background-repeat: no-repeat;
+	background-color: cornsilk;
+}
+.Khung input:focus{
+	color: blue;
+	background: #ccc;
+} 
+.Khung input.Vuong{
+	width: 18px;
+    height: 18px;
+    float: left;
+    font-style: italic;
+}
+
